@@ -16470,7 +16470,7 @@
       "S": "Submitted"
     },
     "spacing_between_plants": {
-      "N": "24"
+      "N": "2"
     },
     "Max Germination Temp (F)": {
       "N": "85"
@@ -16501,7 +16501,7 @@
       "S": "['Mediterranean', 'Subtropical']"
     },
     "yield_per_plant_ounces": {
-      "N": "3168"
+      "N": "2"
     },
     "climate": {
       "S": "Mediterranean"
