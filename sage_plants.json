@@ -4002,7 +4002,7 @@
       "S": "Submitted"
     },
     "spacing_between_plants": {
-      "N": "24"
+      "N": "36"
     },
     "Max Germination Temp (F)": {
       "N": "80"
@@ -4033,7 +4033,7 @@
       "S": "['Mediterranean', 'Temperate', 'Hot Desert', 'Cold Desert']"
     },
     "yield_per_plant_ounces": {
-      "N": "56"
+      "N": "32"
     },
     "climate": {
       "S": "Mediterranean"
@@ -4051,7 +4051,7 @@
       "N": "11"
     },
     "daysToHarvest": {
-      "N": "110"
+      "N": "730"
     },
     "guildFunction": {
       "L": [
