@@ -1590,10 +1590,10 @@
       "S": "Garlic"
     },
     "typeOfHarvest": {
-      "S": "Roots"
+      "S": "bulb"
     },
     "size": {
-      "S": "medium"
+      "S": "small"
     },
     "latinName": {
       "S": "Zingiber officinale"
