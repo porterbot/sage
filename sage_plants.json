@@ -7305,7 +7305,7 @@
       "S": "Goldenrod"
     },
     "typeOfHarvest": {
-      "S": "Berries"
+      "S": "Flowers"
     },
     "size": {
       "S": "shrub"
@@ -7332,7 +7332,7 @@
       "S": "['Cool Temperate', 'Temperate']"
     },
     "yield_per_plant_ounces": {
-      "N": "160"
+      "N": "n/a"
     },
     "climate": {
       "S": "Cool Temperate"
@@ -7344,7 +7344,7 @@
       "S": "Submitted"
     },
     "spacing_between_plants": {
-      "N": "96"
+      "N": "24"
     },
     "plant_family": {
       "S": "Elaeagnaceae"
