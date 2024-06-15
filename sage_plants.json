@@ -7214,7 +7214,7 @@
       "S": "Roots"
     },
     "size": {
-      "S": "medium"
+      "S": "large"
     },
     "latinName": {
       "S": "Maranta arundinacea"
@@ -7241,7 +7241,7 @@
       "S": "['Tropical', 'Subtropical']"
     },
     "yield_per_plant_ounces": {
-      "N": "72"
+      "N": "32"
     },
     "climate": {
       "S": "Tropical"
@@ -7268,7 +7268,7 @@
       "N": "11"
     },
     "daysToHarvest": {
-      "N": "180"
+      "N": "300"
     },
     "foodForestLayer": {
       "L": [
