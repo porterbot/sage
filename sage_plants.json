@@ -9978,7 +9978,7 @@
       "S": "shrub"
     },
     "latinName": {
-      "S": "Citrus × microcarpa"
+      "S": "Juniperus communis"
     },
     "USDAMin": {
       "N": "9"
@@ -9987,7 +9987,7 @@
       "S": "perennial"
     },
     "Min Germination Temp (F)": {
-      "N": "60"
+      "N": "40"
     },
     "Amount of Water Needed": {
       "S": "Moderate"
@@ -10014,10 +10014,10 @@
       "N": "96"
     },
     "plant_family": {
-      "S": "Rutaceae"
+      "S": "Cupressaceae"
     },
     "Max Germination Temp (F)": {
-      "N": "85"
+      "N": "60"
     },
     "USDAMax": {
       "N": "11"
