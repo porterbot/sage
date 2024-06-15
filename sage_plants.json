@@ -11655,7 +11655,7 @@
       "S": "Submitted"
     },
     "spacing_between_plants": {
-      "N": "4"
+      "N": "12"
     },
     "Max Germination Temp (F)": {
       "N": "70"
@@ -11686,7 +11686,7 @@
       "S": "['Cool Temperate', 'Temperate']"
     },
     "yield_per_plant_ounces": {
-      "N": "4"
+      "N": "2"
     },
     "climate": {
       "S": "Cool Temperate"
@@ -11704,7 +11704,7 @@
       "N": "9"
     },
     "daysToHarvest": {
-      "N": "365"
+      "N": "730"
     },
     "guildFunction": {
       "L": [
