@@ -8651,7 +8651,7 @@
       "S": "Mulberry (Dwarf)"
     },
     "typeOfHarvest": {
-      "S": "Flowers"
+      "S": "Berry"
     },
     "size": {
       "S": "small"
@@ -8675,7 +8675,7 @@
       "S": "['Mediterranean', 'Cool Temperate', 'Temperate']"
     },
     "yield_per_plant_ounces": {
-      "N": "1"
+      "N": "50"
     },
     "climate": {
       "S": "Mediterranean"
