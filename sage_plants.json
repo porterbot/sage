@@ -16832,7 +16832,7 @@
       "S": "['Cool Temperate', 'Temperate']"
     },
     "yield_per_plant_ounces": {
-      "N": "1"
+      "N": "4"
     },
     "climate": {
       "S": "Cool Temperate"
