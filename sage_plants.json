@@ -5637,10 +5637,10 @@
       "S": "Hazelnut"
     },
     "typeOfHarvest": {
-      "S": "Flowers"
+      "S": "nuts"
     },
     "size": {
-      "S": "shrub"
+      "S": "large tree"
     },
     "latinName": {
       "S": "Hibiscus rosa-sinensis"
@@ -5676,7 +5676,7 @@
       "S": "Submitted"
     },
     "spacing_between_plants": {
-      "N": "36"
+      "N": "120"
     },
     "plant_family": {
       "S": "Malvaceae"
