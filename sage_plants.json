@@ -6376,7 +6376,7 @@
       "S": "['Tropical', 'Subtropical', 'Temperate']"
     },
     "yield_per_plant_ounces": {
-      "N": "4"
+      "N": "5"
     },
     "climate": {
       "S": "Tropical"
