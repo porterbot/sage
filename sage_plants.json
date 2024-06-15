@@ -6497,7 +6497,7 @@
       "S": "Berries"
     },
     "size": {
-      "S": "large"
+      "S": "shrub"
     },
     "USDAMin": {
       "N": "3"
@@ -6518,7 +6518,7 @@
       "S": "Submitted"
     },
     "spacing_between_plants": {
-      "N": "36"
+      "N": "48"
     },
     "Max Germination Temp (F)": {
       "N": "70"
@@ -6567,7 +6567,7 @@
       "N": "8"
     },
     "daysToHarvest": {
-      "N": "90"
+      "N": "730"
     },
     "guildFunction": {
       "L": [
