@@ -1632,7 +1632,7 @@
       "S": "Submitted"
     },
     "spacing_between_plants": {
-      "N": "36"
+      "N": "6"
     },
     "plant_family": {
       "S": "Zingiberaceae"
@@ -1642,6 +1642,9 @@
     },
     "USDAMax": {
       "N": "12"
+    },
+    "yield_per_plant_ounces": {
+      "N": "4"
     },
     "daysToHarvest": {
       "N": "210"
