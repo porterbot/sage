@@ -5719,7 +5719,7 @@
       "S": "shrub"
     },
     "latinName": {
-      "S": "Juniperus communis"
+      "S": "Ribes × nidigrolaria"
     },
     "USDAMin": {
       "N": "2"
@@ -5728,7 +5728,7 @@
       "S": "perennial"
     },
     "Min Germination Temp (F)": {
-      "N": "50"
+      "N": "40"
     },
     "Amount of Water Needed": {
       "S": "Moderate"
@@ -5737,7 +5737,7 @@
       "S": "['Cool Temperate', 'Temperate']"
     },
     "yield_per_plant_ounces": {
-      "N": "10"
+      "N": "80"
     },
     "climate": {
       "S": "Cool Temperate"
@@ -5755,7 +5755,7 @@
       "S": "Cupressaceae"
     },
     "Max Germination Temp (F)": {
-      "N": "75"
+      "N": "70"
     },
     "USDAMax": {
       "N": "6"
