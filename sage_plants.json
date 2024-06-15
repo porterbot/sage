@@ -6180,6 +6180,9 @@
     "typeOfHarvest": {
       "S": "Rhizome"
     },
+    "yield_per_plant_ounces": {
+      "N": "5"
+    },
     "size": {
       "S": "small"
     },
