@@ -472,13 +472,13 @@
       "S": "Fruit"
     },
     "size": {
-      "S": "medium"
+      "S": "large"
     },
     "USDAMin": {
       "N": "5"
     },
     "season": {
-      "S": "annual"
+      "S": "perrenial"
     },
     "Stratification Temp (F)": {
       "N": "40"
@@ -493,7 +493,7 @@
       "S": "Submitted"
     },
     "spacing_between_plants": {
-      "N": "18"
+      "N": "60"
     },
     "Max Germination Temp (F)": {
       "N": "75"
