@@ -9279,7 +9279,7 @@
       "N": "9"
     },
     "daysToHarvest": {
-      "N": "365"
+      "N": "30"
     },
     "foodForestLayer": {
       "L": [
