@@ -472,13 +472,13 @@
       "S": "Fruit"
     },
     "size": {
-      "S": "medium"
+      "S": "large"
     },
     "USDAMin": {
       "N": "5"
     },
     "season": {
-      "S": "annual"
+      "S": "perrenial"
     },
     "Stratification Temp (F)": {
       "N": "40"
@@ -493,7 +493,7 @@
       "S": "Submitted"
     },
     "spacing_between_plants": {
-      "N": "18"
+      "N": "60"
     },
     "Max Germination Temp (F)": {
       "N": "75"
@@ -1590,10 +1590,10 @@
       "S": "Garlic"
     },
     "typeOfHarvest": {
-      "S": "Roots"
+      "S": "bulb"
     },
     "size": {
-      "S": "medium"
+      "S": "small"
     },
     "latinName": {
       "S": "Zingiber officinale"
@@ -1632,7 +1632,7 @@
       "S": "Submitted"
     },
     "spacing_between_plants": {
-      "N": "36"
+      "N": "6"
     },
     "plant_family": {
       "S": "Zingiberaceae"
@@ -1642,6 +1642,9 @@
     },
     "USDAMax": {
       "N": "12"
+    },
+    "yield_per_plant_ounces": {
+      "N": "4"
     },
     "daysToHarvest": {
       "N": "210"
@@ -3829,13 +3832,13 @@
   },
   {
     "name": {
-      "S": "Gingko"
+      "S": "Ginkgo"
     },
     "typeOfHarvest": {
-      "S": "Roots"
+      "S": "ornamental"
     },
     "size": {
-      "S": "medium"
+      "S": "tree"
     },
     "latinName": {
       "S": "Panax spp."
@@ -5634,10 +5637,10 @@
       "S": "Hazelnut"
     },
     "typeOfHarvest": {
-      "S": "Flowers"
+      "S": "nuts"
     },
     "size": {
-      "S": "shrub"
+      "S": "large tree"
     },
     "latinName": {
       "S": "Hibiscus rosa-sinensis"
@@ -5673,7 +5676,7 @@
       "S": "Submitted"
     },
     "spacing_between_plants": {
-      "N": "36"
+      "N": "120"
     },
     "plant_family": {
       "S": "Malvaceae"
@@ -6175,10 +6178,13 @@
       "S": "Ginger"
     },
     "typeOfHarvest": {
-      "S": "Leaves"
+      "S": "Rhizome"
+    },
+    "yield_per_plant_ounces": {
+      "N": "5"
     },
     "size": {
-      "S": "large tree"
+      "S": "small"
     },
     "latinName": {
       "S": "Ginkgo"
@@ -7062,7 +7068,7 @@
       "S": "Ginseng"
     },
     "typeOfHarvest": {
-      "S": "Flower"
+      "S": "Root"
     },
     "size": {
       "S": "small"
@@ -7095,7 +7101,7 @@
       "S": "Submitted"
     },
     "spacing_between_plants": {
-      "N": "18"
+      "N": "5"
     },
     "plant_family": {
       "S": "Asteraceae"
@@ -7299,7 +7305,7 @@
       "S": "Goldenrod"
     },
     "typeOfHarvest": {
-      "S": "Berries"
+      "S": "Flowers"
     },
     "size": {
       "S": "shrub"
@@ -7326,7 +7332,7 @@
       "S": "['Cool Temperate', 'Temperate']"
     },
     "yield_per_plant_ounces": {
-      "N": "160"
+      "N": "n/a"
     },
     "climate": {
       "S": "Cool Temperate"
@@ -7338,7 +7344,7 @@
       "S": "Submitted"
     },
     "spacing_between_plants": {
-      "N": "96"
+      "N": "24"
     },
     "plant_family": {
       "S": "Elaeagnaceae"
