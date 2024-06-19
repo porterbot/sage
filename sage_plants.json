@@ -5722,7 +5722,7 @@
       "S": "shrub"
     },
     "latinName": {
-      "S": "Juniperus communis"
+      "S": "Ribes × nidigrolaria"
     },
     "USDAMin": {
       "N": "2"
@@ -5731,7 +5731,7 @@
       "S": "perennial"
     },
     "Min Germination Temp (F)": {
-      "N": "50"
+      "N": "40"
     },
     "Amount of Water Needed": {
       "S": "Moderate"
@@ -5740,7 +5740,7 @@
       "S": "['Cool Temperate', 'Temperate']"
     },
     "yield_per_plant_ounces": {
-      "N": "10"
+      "N": "80"
     },
     "climate": {
       "S": "Cool Temperate"
@@ -5758,7 +5758,7 @@
       "S": "Cupressaceae"
     },
     "Max Germination Temp (F)": {
-      "N": "75"
+      "N": "70"
     },
     "USDAMax": {
       "N": "6"
@@ -9395,13 +9395,13 @@
       "S": "Jackfruit"
     },
     "typeOfHarvest": {
-      "S": "Berries"
+      "S": "Fruit"
     },
     "size": {
-      "S": "shrub"
+      "S": "tree"
     },
     "latinName": {
-      "S": "Ribes × nidigrolaria"
+      "S": "Artocarpus heterophyllus"
     },
     "USDAMin": {
       "N": "3"
@@ -9410,7 +9410,7 @@
       "S": "perennial"
     },
     "Min Germination Temp (F)": {
-      "N": "55"
+      "N": "32"
     },
     "Amount of Water Needed": {
       "S": "Moderate"
@@ -9422,7 +9422,7 @@
       "S": "['Cool Temperate', 'Temperate']"
     },
     "yield_per_plant_ounces": {
-      "N": "128"
+      "N": "16000"
     },
     "climate": {
       "S": "Cool Temperate"
@@ -9434,13 +9434,13 @@
       "S": "Submitted"
     },
     "spacing_between_plants": {
-      "N": "48"
+      "N": "360"
     },
     "plant_family": {
-      "S": "Grossulariaceae"
+      "S": "Moraceae"
     },
     "Max Germination Temp (F)": {
-      "N": "85"
+      "N": "90"
     },
     "USDAMax": {
       "N": "9"
@@ -9448,7 +9448,7 @@
     "foodForestLayer": {
       "L": [
         {
-          "S": "shrub / Bush"
+          "S": "Canopy"
         }
       ]
     },
@@ -9984,7 +9984,7 @@
       "S": "shrub"
     },
     "latinName": {
-      "S": "Citrus × microcarpa"
+      "S": "Juniperus communis"
     },
     "USDAMin": {
       "N": "9"
@@ -9993,7 +9993,7 @@
       "S": "perennial"
     },
     "Min Germination Temp (F)": {
-      "N": "60"
+      "N": "40"
     },
     "Amount of Water Needed": {
       "S": "Moderate"
@@ -10020,10 +10020,10 @@
       "N": "96"
     },
     "plant_family": {
-      "S": "Rutaceae"
+      "S": "Cupressaceae"
     },
     "Max Germination Temp (F)": {
-      "N": "85"
+      "N": "60"
     },
     "USDAMax": {
       "N": "11"
